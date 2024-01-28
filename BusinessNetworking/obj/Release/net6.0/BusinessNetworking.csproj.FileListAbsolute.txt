@@ -1,0 +1,8 @@
+C:\Users\iCruzsoft\source\repos\BusinessNetworking\BusinessNetworking\obj\Release\net6.0\BusinessNetworking.csproj.AssemblyReference.cache
+C:\Users\iCruzsoft\source\repos\BusinessNetworking\BusinessNetworking\obj\Release\net6.0\BusinessNetworking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iCruzsoft\source\repos\BusinessNetworking\BusinessNetworking\obj\Release\net6.0\BusinessNetworking.AssemblyInfoInputs.cache
+C:\Users\iCruzsoft\source\repos\BusinessNetworking\BusinessNetworking\obj\Release\net6.0\BusinessNetworking.AssemblyInfo.cs
+C:\Users\iCruzsoft\source\repos\BusinessNetworking\BusinessNetworking\obj\Release\net6.0\BusinessNetworking.csproj.CoreCompileInputs.cache
+C:\Users\iCruzsoft\source\repos\BusinessNetworking\BusinessNetworking\obj\Release\net6.0\BusinessNetworking.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\iCruzsoft\source\repos\BusinessNetworking\BusinessNetworking\obj\Release\net6.0\BusinessNetworking.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\iCruzsoft\source\repos\BusinessNetworking\BusinessNetworking\obj\Release\net6.0\BusinessNetworking.sourcelink.json
